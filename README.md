@@ -15,7 +15,7 @@ Instructables :- https://www.instructables.com/Otto-Robot-Arduino-Robot-Simple-A
 
 ___________________________
 
-Hackster  :-  
+Hackster  :-  https://www.hackster.io/Vishalsoniindia/otto-robot-arduino-robot-simple-arduino-robot-428bfb
 
 ___________________________
 
